@@ -10,6 +10,7 @@
 
 body{
     font-family: "Poppins", sans-serif;
+    background-color:palegreen;
 }
 
 a{
@@ -54,7 +55,4 @@ section{
     width: 140px;
     background-color: #FF9C35;
     margin: 0 auto;
-}
-.cat-over{
-    overflow: hidden;
 }
