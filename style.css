@@ -44,3 +44,14 @@ section{
 .laptop{
     margin-top: 20px;
 }
+
+/** Categories **/
+.categories{
+    text-align: center;
+}
+.rectangle{
+    height: 5px;
+    width: 140px;
+    background-color: #FF9C35;
+    margin: 0 auto;
+}
