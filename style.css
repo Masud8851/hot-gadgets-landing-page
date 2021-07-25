@@ -55,3 +55,6 @@ section{
     background-color: #FF9C35;
     margin: 0 auto;
 }
+.cat-over{
+    overflow: hidden;
+}
