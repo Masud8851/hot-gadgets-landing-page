@@ -1,7 +1,7 @@
-/* Font */
+/** Font **/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Volkhov:wght@400;700&display=swap");
 
-/* Global */
+/** Global **/
 *{
     margin: 0;
     padding: 0;
@@ -12,9 +12,37 @@ body{
     font-family: "Poppins", sans-serif;
 }
 
-/* Navbar */
+a{
+    text-decoration: none;
+    font-family: serif;
+    color: orange;
+}
+
+
+/** Navbar **/
 .nabigation-bar{
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 500;
+}
+
+/** Smartphone **/
+.smartphone{
+    margin-bottom: 45px;
+}
+
+.pricing{
+    text-align: center;
+}
+
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    /* border: 1px solid rgba(0,0,0,.125); */
+    border-radius: .25rem;  
 }
