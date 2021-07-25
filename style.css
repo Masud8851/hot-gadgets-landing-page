@@ -16,7 +16,8 @@ body{
 a{
     text-decoration: none;
     font-family: serif;
-    color: orange;
+    color: rgb(255, 51, 0);
+    font-weight: 700;
 }
 
 section{
@@ -26,6 +27,7 @@ section{
 h1,h2,h3,h4,h5,h6{
     font-family: serif;
 }
+
 
 
 /** Navbar **/
