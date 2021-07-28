@@ -62,3 +62,12 @@ h1,h2,h3,h4,h5,h6{
     background-color: #FF9C35;
     margin: 0 auto;
 }
+.cat-over{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(236, 231, 229);  
+}
+.cat-over img{
+    align-items: center;
+    padding: 20px;
+}
